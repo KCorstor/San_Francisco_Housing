@@ -1,4 +1,4 @@
 # San_Francisco_Housing
-Look at the graphs
+Plotting various metrics of the San Francisco housing market.
 
-#
+
